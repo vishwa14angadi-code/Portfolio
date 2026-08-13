@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vishwanath Angadi — Portfolio</title>
+<meta name="description" content="Portfolio and resume of Vishwanath Angadi, Senior Technical Writer specializing in API and AI-assisted documentation.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<header class="site-header" id="site-header">
+  <div class="container header-inner">
+    <div class="header-text">
+      <h1 id="basics-name">Loading…</h1>
+      <p class="label" id="basics-label"></p>
+    </div>
+    <div class="header-actions">
+      <button id="theme-toggle" type="button" aria-pressed="false" aria-label="Toggle dark mode">
+        <span aria-hidden="true" id="theme-icon">🌙</span>
+        <span class="visually-hidden-label" id="theme-label">Dark mode</span>
+      </button>
+    </div>
+  </div>
+  <div class="container">
+    <ul class="contact-list" id="contact-list" aria-label="Contact information"></ul>
+  </div>
+</header>
+
+<main id="main-content" class="container">
+
+  <section id="experience-section" class="section" aria-labelledby="experience-heading" hidden>
+    <h2 id="experience-heading">Experience</h2>
+    <div id="experience-list" class="timeline"></div>
+  </section>
+
+  <section id="projects-section" class="section" aria-labelledby="projects-heading" hidden>
+    <h2 id="projects-heading">Projects</h2>
+    <div id="projects-list" class="card-grid"></div>
+  </section>
+
+  <section id="education-section" class="section" aria-labelledby="education-heading" hidden>
+    <h2 id="education-heading">Education</h2>
+    <div id="education-list" class="timeline"></div>
+  </section>
+
+  <section id="certificates-section" class="section" aria-labelledby="certificates-heading" hidden>
+    <h2 id="certificates-heading">Certifications</h2>
+    <ul id="certificates-list" class="plain-list"></ul>
+  </section>
+
+  <section id="skills-section" class="section" aria-labelledby="skills-heading" hidden>
+    <h2 id="skills-heading">Skills</h2>
+    <div id="skills-list" class="skills-grid"></div>
+  </section>
+
+  <p id="load-error" class="load-error" role="alert" hidden>
+    Unable to load resume data. If you opened this file directly in a browser,
+    please serve it with a local server instead, for example:
+    <code>python3 -m http.server 8000</code>
+  </p>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p id="footer-text">&copy; <span id="footer-year"></span></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

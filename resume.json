@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "Vishwanath Angadi",
+    "label": "Senior Technical Writer | API & AI-Assisted Documentation | Business Analysis Support",
+    "email": "vishwa14.angadi@gmail.com",
+    "phone": "+91 9676054281",
+    "location": {
+      "city": "Hyderabad",
+      "countryCode": "IN"
+    }
+  },
+  "work": [
+    {
+      "name": "Judge India Solutions",
+      "position": "Senior Technical Writer",
+      "location": "Hyderabad",
+      "startDate": "2022-02",
+      "endDate": "",
+      "summary": "eCommerce – AAFES (Exchange)",
+      "highlights": [
+        "Authored and maintained user guides, SOPs, and knowledge base articles for eCommerce mobile applications and RPA workflows supporting customer-facing features, order management, and payment flows",
+        "Applied GenAI and prompt engineering to accelerate content creation, document restructuring, summarization, and knowledge extraction",
+        "Documented API specifications, RPA process flows, and technical integration points for development and QA teams",
+        "Produced KPI reports, project status dashboards, and executive summaries to track documentation output and delivery performance"
+      ]
+    },
+    {
+      "name": "Cyient Ltd",
+      "position": "Lead Technical Writer",
+      "location": "Hyderabad",
+      "startDate": "2012-03",
+      "endDate": "2022-02",
+      "summary": "Transportation & Healthcare (Bombardier); Onsite Coordinator — Bombardier, Derby (UK)",
+      "highlights": [
+        "Directed end-to-end documentation lifecycle—planning, development, review, approval, and release—for technical and maintenance manuals across transportation and healthcare client programs",
+        "Served as onsite coordinator in Derby, UK, bridging offshore documentation teams with client system, DfM, and safety engineers to resolve review comments and accelerate approvals",
+        "Applied Simplified Technical English (STE) guidelines to produce clear, compliant manuals across all client programs",
+        "Coordinated technical data packs, engineering source materials, and approval tracking between offshore teams and onsite stakeholders, ensuring on-time delivery"
+      ]
+    },
+    {
+      "name": "Quest Informatics Pvt. Ltd.",
+      "position": "Technical Editor",
+      "location": "Bangalore",
+      "startDate": "2006-04",
+      "endDate": "2011-01",
+      "summary": "Software/Transportation (LG & Volvo)",
+      "highlights": [
+        "Gathered product-related information from source materials and SMEs, developing documentation aligned with client requirements and documentation standards",
+        "Performed comprehensive self-reviews for accuracy, completeness, and consistency before submitting documents for editorial review",
+        "Analyzed and incorporated editorial review comments and quality recommendations to improve documentation quality and alignment with project requirements",
+        "Delivered finalized documentation to clients within established timelines while maintaining quality and compliance with customer expectations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "studyType": "Bachelor of Science",
+      "area": "Information Technology"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI-Powered Documentation Mastery with Claude"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Documentation",
+      "keywords": [
+        "User Manuals",
+        "SOPs",
+        "BRDs",
+        "Process Flows",
+        "API Documentation",
+        "Knowledge Base Articles"
+      ]
+    },
+    {
+      "name": "AI Content Strategy & GenAI-Assisted Documentation",
+      "keywords": [
+        "Claude Code",
+        "Cursor",
+        "Prompt Engineering",
+        "ChatGPT",
+        "Microsoft Copilot",
+        "LLMs",
+        "RAG",
+        "AI Agents"
+      ]
+    },
+    {
+      "name": "Business Analyst Support",
+      "keywords": [
+        "Requirements Elicitation",
+        "Requirements Documentation",
+        "KPI Reporting",
+        "Agile/Scrum Methodology Support"
+      ]
+    },
+    {
+      "name": "Documentation & Authoring Tools",
+      "keywords": [
+        "FrameMaker",
+        "RoboHelp",
+        "Oxygen XML",
+        "Epic Editor",
+        "MS Word",
+        "MS Visio",
+        "SnagIt"
+      ]
+    },
+    {
+      "name": "Content Management Systems",
+      "keywords": [
+        "Confluence",
+        "SharePoint"
+      ]
+    },
+    {
+      "name": "Project Management & Collaboration",
+      "keywords": [
+        "Jira",
+        "Azure DevOps",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "name": "Version Control & Automation",
+      "keywords": [
+        "GitHub",
+        "UiPath Orchestrator",
+        "UiPath Studio",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Data & Reporting",
+      "keywords": [
+        "Microsoft Excel",
+        "Power BI",
+        "JMeter",
+        "WinSCP"
+      ]
+    },
+    {
+      "name": "Robotic Process Automation",
+      "keywords": [
+        "RPA Documentation",
+        "RPA Workflows"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Telugu"
+      ]
+    }
+  ]
+}
