@@ -97,6 +97,20 @@
   }
 
   /* ---------------- Renderers ---------------- */
+  function renderAbout(basics) {
+    if (!basics || !basics.summary) return;
+    var aboutContent = document.getElementById("about-content");
+
+    var paragraphs = basics.summary.split("\n\n");
+    paragraphs.forEach(function (para) {
+      if (para.trim()) {
+        aboutContent.appendChild(el("p", { text: para.trim() }));
+      }
+    });
+
+    showSection("about-section");
+  }
+
   function renderBasics(basics) {
     if (!basics) return;
 
@@ -367,6 +381,7 @@
     })
     .then(function (resume) {
       renderBasics(resume.basics);
+      renderAbout(resume.basics);
       renderExperience(resume.work);
       renderProjects(resume.projects);
       renderEducation(resume.education);
